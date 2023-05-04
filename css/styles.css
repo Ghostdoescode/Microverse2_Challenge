@@ -65,7 +65,7 @@ label{
   margin-bottom: 0.5rem;
 }
 
-input,
+/* input,
 button,
 select,
 textarea ,{
@@ -73,7 +73,7 @@ textarea ,{
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
-}
+} */
 
 button{
   border: none;
@@ -107,7 +107,7 @@ margin: 3.125rem auto 0 auto;
   color: white;
 }
 
-.textcenter{
+.text-center{
   text-align: center;
 }
 
